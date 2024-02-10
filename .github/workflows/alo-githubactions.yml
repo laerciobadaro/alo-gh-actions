@@ -1,8 +1,8 @@
 name: Exemplo de Fluxo de Trabalho
 
 on:
-  workflow_dispatch: 
-
+  workflow_dispatch:
+    
 jobs:
   acao_inicial_job:
     runs-on: ubuntu-latest
